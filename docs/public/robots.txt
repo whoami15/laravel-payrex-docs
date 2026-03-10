@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laravel-payrex.netlify.app/sitemap.xml
